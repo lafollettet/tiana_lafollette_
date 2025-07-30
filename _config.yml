@@ -13,8 +13,8 @@ title                    : "Tiana's Homepage"
 title_separator          : "-"
 name                     : &name "Tiana "
 description              : &description "personal description"
-URL                      : "https://lafollettet.github.io/tiana_lafollette_/"
-repository               : "academicpages/academicpages.github.io"
+URL                      : https://lafollettet.github.io/tiana_lafollette_/
+repository               : "lafollettet/tiana_lafollette_"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Tiana LaFollette"
-  pronouns         : example: "she/her/hers"  
+  pronouns         : "she/her/hers"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Pullman,WA"
   employer         : "Washington State University"
