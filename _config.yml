@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Tiana LaFollette"
   pronouns         : "she/her/hers"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "First-generation college student"
   location         : "Pullman,WA"
   employer         : "Washington State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tiana.lafollette@wsu.edu" 
 
   # Academic websites
   academia         : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "tiana-lafollette"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
