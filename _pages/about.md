@@ -7,9 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template! meow meow meow 
+Tiana is a research assistant in Dr. Wayman’s Laboratory at Washington State University, where she has worked for over three years investigating the CA1 region of the hippocampus during the third trimester of pregnancy. Her research focuses on the impact of maternal health—particularly gestational diabetes—on fetal brain development and the structural integrity of memory-related regions in the hippocampus.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+With a strong commitment to advancing maternal and fetal health outcomes, Tiana has actively contributed to the scientific community by presenting her work at local, regional, and national research conferences. These opportunities have allowed her to engage with interdisciplinary audiences and share insights into the neural mechanisms underlying prenatal development.
+
+Tiana’s long-term academic and professional goal is to pursue an MD-PhD, integrating clinical practice with developmental neuroscience research. Her work is guided by a commitment to improving both scientific understanding and healthcare delivery related to pregnancy and early brain development.
+
+Outside of her academic work, Tiana enjoys quiet moments at home with her cat, who often keeps her company during late-night reading and research.
+
 
 A data-driven personal website
 ======
